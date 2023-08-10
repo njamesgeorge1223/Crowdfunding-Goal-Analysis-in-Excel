@@ -21,7 +21,7 @@ For successful and unsuccessful campaigns, the Statistical Analysis spreadsheet 
 
 Therefore, along with obvious deductions about success and funding trends, I drew the following three conclusions about crowdfunding campaigns.
 
-•	The probability of a successful campaign in a certain category is not related to a category’s popularity: the categories with the most campaigns are not necessarily the most successful ones.
+•	The probability of a successful campaign in a certain category is not related to that category’s popularity: the categories with the most campaigns are not necessarily the most successful ones.
 
 •	The likelihood of a successful campaign can be increased through timing.
 
