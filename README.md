@@ -6,7 +6,7 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this challenge, I organized and analyzed a database of 1,000 sample projects to uncover any hidden trends.
 
 
-Crowdfunding Goal Analysis Report
+# Crowdfunding Goal Analysis Report
 
 Since the late 2000s, crowdfunding has been growing in success and popularity.  As a result, many people are now using this practice to launch new products and generate publicity.  In this challenge, I analyze crowdfunding data from a database of 1,000 sample campaigns to better understand its trends.
 
