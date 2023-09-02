@@ -1,1 +1,1 @@
-This folder holds the unprocessed version of the input Excel file for this challenge.
+This folder holds the unprocessed version of this Challenge's input Excel file.
