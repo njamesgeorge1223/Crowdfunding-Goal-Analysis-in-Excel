@@ -1,1 +1,1 @@
-This folder holds the unprocessed version of this Challenge's input Excel file.
+This folder holds the unprocessed version of the input Excel file for the crowdfunding analysis.
