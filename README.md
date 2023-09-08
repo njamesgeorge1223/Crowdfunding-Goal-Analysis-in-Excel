@@ -1,3 +1,8 @@
+
+![crowdfunding-1200x700](https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/0b91b94f-4da0-48d8-b5c4-9487ccc5a60f)
+
+----
+
 # Crowdfunding Goal Analysis Report
 
 Since the late 2000s, crowdfunding has been growing in success and popularity.  As a result, many people are now using this practice to launch new products and generate publicity.  In this challenge, I analyze crowdfunding data from a database of 1,000 sample campaigns to better understand its trends.  As the first step, I implemented the spreadsheets and their accompanying tables and graphs necessary for the challenge: Crowdfunding, Sub-Category by Outcomes, Primary Category by Outcomes, Months by Outcomes, Crowdfunding Goal Analysis, and Statistical Analysis.
