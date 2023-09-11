@@ -20,9 +20,6 @@ For successful and unsuccessful campaigns, the worksheet, Statistical Analysis, 
 <img width="980" alt="Screenshot 2023-09-09 at 8 23 48 PM" src="https://github.com/njgeorge000158/Crowdfunding-Goal-Analysis-in-Excel/assets/137228821/d4cf35bf-d1af-4410-acf7-299fc45cc4d9">
 Above and beyond this analysis, there are other tables and/or graphs that can potentially aid in better understanding crowdfunding.  For the sake of brevity, I mention only three: countries vs. percent of successful campaigns, year vs. percent of successful campaigns, and outcomes vs. standard deviations of goals and pledged contributions.  In countries vs. percent of successful campaigns, the table and graph communicate if campaigns are more likely to succeed in one country over another.  For year vs. percent of successful campaigns, the calculations demonstrate whether this phenomenon is becoming increasingly more popular or following a cyclical pattern.  Finally, outcomes by the standard deviations of goals and pledged contributions will reveal if anything differentiates distributions for a successful campaign over the alternatives; there is a peculiarity: the standard deviation of campaign goals is greater than the standard deviation of pledged contributions in all cases except successful campaigns where the reverse occurs.  What’s more, the standard deviation for a campaign goal is approximately the same for all outcomes except successful campaigns where it drops precipitously.
 
-##Copyright
-
-N. James George © 2023. All Rights Reserved.
 Everything considered, along with obvious deductions about success and funding trends, I drew the following three conclusions about crowdfunding campaigns.
 
 •	The probability of a successful campaign in a certain category is not related to popularity: the categories with the most campaigns are not necessarily the most successful ones.
