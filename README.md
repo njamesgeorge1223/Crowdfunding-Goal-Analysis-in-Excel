@@ -33,6 +33,8 @@ Everything considered, along with obvious deductions about success and funding t
 
 Furthermore, the two distributions of backers, for successful and unsuccessful campaigns, are heavily skewed, which the egregious deviation in average and median values conveys.  Although the median is a better measure of central tendency, this analysis instead applies the average.  This situation coupled with insufficient sample spaces limits the utility of this dataset.  Ultimately, this investigation yielded practical results, but the limitations of this dataset render those results suspect.  In the future, I would suggest a similar analysis with more tables and graphs on a much larger data set – preferably, one to two orders of magnitude larger – using medians for calculations instead of averages.
 
-##Copyright
+----
+
+## Copyright
 
 N. James George © 2023. All Rights Reserved.
