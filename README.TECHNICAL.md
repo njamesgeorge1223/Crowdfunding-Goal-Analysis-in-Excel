@@ -22,19 +22,19 @@ The completed analysis is in the Excel file, Crowdfunding Analysis.xlsx; the Ima
 
 ----
 
-#### Source code
+#### **Source code**
 
 Crowdfunding Analysis.xlsx
 
-#### Input files
+#### **Input files**
 
 CrowdfundingBook (Unprocessed).xlsx
 
-#### Output files
+#### **Output files**
 
 Crowdfunding Analysis.xlsx
 
-#### SQL script
+#### **SQL script**
 
 n/a
 
