@@ -52,9 +52,9 @@ MS Excel
 
 #### main branch 
 
-|&rarr; [./Crowdfunding Analysis.docx](./Crowdfunding Analysis.docx)
+|&rarr; [./"Crowdfunding Analysis.docx"](./"Crowdfunding Analysis.docx")
 
-|&rarr; [./Crowdfunding Analysis.xlsx](./Crowdfunding Analysis.xlsx)
+|&rarr; [./"Crowdfunding Analysis.xlsx"](./"Crowdfunding Analysis.xlsx")
 
 |&rarr; [./README.TECHNICAL.md](./README.TECHNICAL.md)
 
@@ -110,7 +110,7 @@ MS Excel
   
 |&rarr; [./Resources/](./Resources/)
 
-  &emsp; |&rarr; [./Resources/CrowdfundingBook (Unprocessed).xlsx](./Resources/CrowdfundingBook (Unprocessed).xlsx)
+  &emsp; |&rarr; [./Resources/"CrowdfundingBook (Unprocessed).xlsx"](./Resources/"CrowdfundingBook (Unprocessed).xlsx")
 
   &emsp; |&rarr; [./Resources/README.md](./Resources/README.md)
 
