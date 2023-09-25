@@ -52,9 +52,9 @@ MS Excel
 
 #### main branch 
 
-|&rarr; [./'Crowdfunding Analysis.docx'](./'Crowdfunding Analysis.docx')
+|&rarr; [./CrowdfundingAnalysisReport.docx](./CrowdfundingAnalysisReport.docx)
 
-|&rarr; [./"Crowdfunding Analysis.xlsx"](./"Crowdfunding Analysis.xlsx")
+|&rarr; [./CrowdfundingAnalysis.xlsx](./CrowdfundingAnalysis.xlsx)
 
 |&rarr; [./README.TECHNICAL.md](./README.TECHNICAL.md)
 
