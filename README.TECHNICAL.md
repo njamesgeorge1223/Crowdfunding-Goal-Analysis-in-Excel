@@ -110,7 +110,7 @@ MS Excel
   
 |&rarr; [./Resources/](./Resources/)
 
-  &emsp; |&rarr; [./Resources/"CrowdfundingBook (Unprocessed).xlsx"](./Resources/"CrowdfundingBook (Unprocessed).xlsx")
+  &emsp; |&rarr; [./Resources/CrowdfundingBookUnprocessed).xlsx](./Resources/CrowdfundingBookUnprocessed.xlsx")
 
   &emsp; |&rarr; [./Resources/README.md](./Resources/README.md)
 
