@@ -6,7 +6,7 @@
 
 ----
 
-The only dependency this analysis requires is an installation of MS Excel and the installation of an image viewer such as Preview.
+The only dependency this analysis requires is an installation of MS Excel and an image viewer such as Preview.
 
 ----
 
