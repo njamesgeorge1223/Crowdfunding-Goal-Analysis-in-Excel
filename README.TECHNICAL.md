@@ -120,7 +120,7 @@ MS Excel
 
 ----
 
-[MS Excel Help and Learning](https://support.microsoft.com/en-us/excel)) \
+[MS Excel Help and Learning](https://support.microsoft.com/en-us/excel) \
 
 
 ### **Authors and Acknowledgment:**
