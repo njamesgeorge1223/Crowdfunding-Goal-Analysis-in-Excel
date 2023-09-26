@@ -14,7 +14,7 @@ The only dependency this analysis requires is an installation of MS Excel.
 
 ----
 
-The completed analysis is in the Excel file, Crowdfunding Analysis.xlsx; the Images folder contains images from that Excel file; and the Resources folder has the unprocessed starter Excel file.  The report is in the text file, README.md, and the Word Document, CrowdfundingAnalysisReport.docx.
+The completed analysis is in the Excel Workbook, Crowdfunding Analysis.xlsx; the Images folder contains images from the Excel Workbook; and the Resources folder has the unprocessed starter Excel Workbook.  The report is in the text file, README.md, and the Word Document, CrowdfundingAnalysisReport.docx.
 
 ----
 
