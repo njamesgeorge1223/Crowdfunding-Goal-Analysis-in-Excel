@@ -1,4 +1,4 @@
-This folder contains images taken from the Excel Workbook, Crowdfunding Analysis.xlsx.
+This folder contains images of worksheets from the Excel Workbook, Crowdfunding Analysis.xlsx.
 
 ## Copyright
 
