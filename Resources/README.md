@@ -1,4 +1,4 @@
-This folder includes the unprocessed input file for the Crowdfunding Analysis, CrowdfundingBookUnprocessed.xlsx.
+This folder includes the unprocessed input file for the Crowdfunding Goal Analysis, CrowdfundingBookUnprocessed.xlsx.
 
 ## Copyright
 
