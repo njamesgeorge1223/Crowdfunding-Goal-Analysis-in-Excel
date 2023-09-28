@@ -51,3 +51,9 @@
 **22. Countries vs. Outcomes**
 
 **23. Outcomes (%) vs. Countries**
+
+----
+
+## Copyright
+
+N. James George © 2023. All Rights Reserved.
